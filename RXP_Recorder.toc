@@ -1,0 +1,13 @@
+## Interface: 16001, 11506, 40402, 110007, 110100
+## Interface-Classic: 11506
+## Interface-Cata: 40402
+## Interface-Mainline: 110100
+## Title: |cff00ff00RXP|r Live Flight Recorder
+## Notes: Real-time scratchpad recorder for RestedXP speedrun routes. Captures accepts, objectives, turn-ins, trainers, and waypoints into copy-pasteable RXP syntax.
+## Author: Chris & Antigravity
+## Version: 1.0.0
+## Category: Quests
+## SavedVariables: RXP_RecorderDB
+## IconTexture: Interface\AddOns\RXP_Recorder\icon
+
+Recorder.lua
